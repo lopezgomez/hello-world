@@ -1,7 +1,9 @@
 # hello-world
-my first repository
-and these are my edits on the first branch
-that are supposed to make this branch different than 
-the master branch
+This is a test repository
+
+-- edits on the first branch
+-- this may be used as the master branch
+
 # making more changes
-all changes deleted May 22 12:58pm
+
+all previous changes deleted May 22 12:58pm
