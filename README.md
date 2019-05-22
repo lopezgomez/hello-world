@@ -4,7 +4,4 @@ and these are my edits on the first branch
 that are supposed to make this branch different than 
 the master branch
 # making more changes
-changes made May 7 2019
-# making more changes May 22, 2019
-Edits today May 22....
-Second set of edit May 22...
+all changes deleted May 22 12:58pm
